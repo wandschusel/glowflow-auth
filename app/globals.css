@@ -1,0 +1,4 @@
+:root { color-scheme: dark light; }
+body { margin: 0; font: 14px/1.4 system-ui, sans-serif; }
+a { color: #5865f2; text-decoration: none; }
+a:hover { text-decoration: underline; }
